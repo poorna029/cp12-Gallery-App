@@ -1,0 +1,23 @@
+/* Write your code here. */
+.thum {
+  display: flex;
+  flex-direction: row;
+  margin-right: 10px;
+  padding: 0px;
+}
+.add {
+  opacity: 1;
+}
+
+.normal {
+  opacity: 0.5;
+}
+.im {
+  width: 65vw;
+  height: 75vh;
+}
+.super {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

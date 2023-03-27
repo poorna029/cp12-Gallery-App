@@ -1,0 +1,12 @@
+/* Write your code here. */
+.thum {
+  display: flex;
+  flex-direction: row;
+  margin-left: none;
+  list-style: none;
+}
+.imgButt {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
